@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 3000
 // Setting the createDataNote array
 let createDataNote = [];
 
-// Middleware body parsing, static, and the route taken
+// Middleware and body parsing, static, and the route taken
 app.use(express.json());
 app.use(
   express.urlencoded({
