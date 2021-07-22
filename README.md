@@ -13,6 +13,8 @@
   This application uses Express, Node, JS, HTML and CSS. 
   ## Usage Instructions
   
+  
+  
   ## License
    MIT License
   ## Contributing Members
@@ -20,7 +22,8 @@
   ## Testing 
    Testing in deployed link and Node
   ## Questions/Inquiries 
-  ### GitHub Profile
+  ### GitHub Profile/Deployed Links
   [GitHub Profile](http://github.com/boconnorb20)
+  https://boc-note-taker.herokuapp.com/
   ### Email
   boconnor20@gmail.com
