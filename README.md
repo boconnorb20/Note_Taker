@@ -23,8 +23,8 @@
    Testing in deployed link and Node
   ## Questions/Inquiries 
   ### GitHub Profile/ Deployed Links
-  (http://github.com/boconnorb20)
-  https://github.com/boconnorb20/Note_Taker
-  https://boc-note-taker.herokuapp.com/
+  --http://github.com/boconnorb20, 
+  --https://github.com/boconnorb20/Note_Taker, 
+  --https://boc-note-taker.herokuapp.com,
   ### Email
   boconnor20@gmail.com
