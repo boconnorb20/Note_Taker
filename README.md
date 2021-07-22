@@ -11,9 +11,7 @@
   With this application the user can write and save any note they would like for the day or week. The user will also be allowed to delete notes whenever they like.
   ## Installation Instructions 
   This application uses Express, Node, JS, HTML and CSS. 
-  ## Usage Instructions
-  ## Deployed site view
-  
+  ## Usage Instructions/ Deployed site view
   
   
   
